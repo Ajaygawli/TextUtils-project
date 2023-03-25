@@ -23,7 +23,7 @@ function App() {
   <Navbar  title="TextUtils" aboutText="About TextUtils"  mode={mode}  toggleMode={toggleMode}/>
  <div className='container my-3'>
 
- <TextArea  heading = "Enter your text to analyze ...."   mode={mode}/>
+ <TextArea  heading = "Enter your text to analyze ......"   mode={mode}/>
  </div>
   
 
